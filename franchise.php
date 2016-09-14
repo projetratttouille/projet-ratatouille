@@ -13,10 +13,8 @@
 		<body>
 			<div id="bloc_page">
 				<?php include('header.php'); ?>
+				<h1 class="text-center-xs">REJOIGNEZ LA FRANCHISE RATATOUILLE</h1>
 				<section class="formulaire col-xs-12">
-					<div class="raw">
-						<h1 class="text-center-xs">RATATOUILLE</h1>
-					</div>
 					<form class="form-horizontal clo-xs-8 col-xs-offset-2">
 						<div class="form-group">
 							<label class="control-label col-xs-2" for="email">Email:</label>
@@ -59,15 +57,21 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<label class="control-label col-xs-2" for="experiences">Epériences: <br/>Cuisine et Management</label>
+							<label class="control-label col-xs-2" for="experiences">Expériences:</label>
 							<div class="col-xs-6">
-								<textarea class="form-control col-xs-6" rows="5" id="experiences" placeholder="Expériences"></textarea>
+								<textarea class="form-control col-xs-6" rows="5" id="experiences" placeholder="Décrivez vos expériences principales, par exemple: managing, cuisine, création d'entreprise, gestion de stock..."></textarea>
 							</div>
 						</div>
 						<div class="form-group">
-							<label class="control-label col-xs-2" for="aExperiences">Autres expériences:</label>
+							<label class="control-label col-xs-2" for="qualites">Vos qualités:</label>
 							<div class="col-xs-6">
-								<textarea class="form-control col-xs-6" rows="5" id="aExperiences" placeholder="Autres expériences"></textarea>
+								<textarea class="form-control col-xs-6" rows="3" id="qualites" placeholder="Quels sont vos qualités personnelles qui vous permettent de croire que vous serez un franchisé prometteur pour le réseau ratatouille"></textarea>
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="control-label col-xs-2" for="infos">Informations complementaires:</label>
+							<div class="col-xs-6">
+								<textarea class="form-control col-xs-6" rows="5" id="infos" placeholder="Connaissez vous l'un des franchisé actuelle de ratatouille? Comment avez entendu parler de ratatouille?"></textarea>
 							</div>
 						</div>
 						<div class="form-group">
