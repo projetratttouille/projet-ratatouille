@@ -1,8 +1,8 @@
-body {
+body{
 	background-color: #E1D9E0;
 }
 
-#bloc_page {
+#bloc_page{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -10,26 +10,28 @@ body {
 	/*border: 1px solid black;*/
 
 }
-section {
+section{
 	margin-top: 50px;
 	display: flex;
 	flex-direction: column;
 	min-height: 600px;
 }
 
-#presentation {
+#presentation{
 	display: flex;
 /*	border: 2px solid black;*/
 	margin: auto;
 }
+footer{
+	background-color: white;
+}
 
 
-
-.image_de_fond {
+.image_de_fond{
 	position: relative;
 /*	border: 2px solid green;*/
 }
-.image_de_fond .texte_presentation {
+.image_de_fond .texte_presentation{
 	background-color: #C1C1CF;
 	width: 400px;
 	opacity: 0.6;
@@ -40,7 +42,7 @@ section {
 
 }	
 
-.image_de_fond p {
+.image_de_fond p{
 	width: 400px;
 	top: 50px;
 	left: 25px;
@@ -50,31 +52,16 @@ section {
 	font-color: #16169E;
 	font-size: 0.9em;
 }
-/*
-header {
-	border: 1px solid green;
-}
-
-footer {
-	border: 1px solid red;
-}
-
-section {
-	border: 1px solid blue;
-}
-*/
-nav {
+nav{
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	background-color: #9DA4C2;
-
-
 }
-.text-center-xs {
+.text-center-xs{
 	text-align: center;
 }
-nav ul {
+nav ul{
 	list-style-type: none;
 	display: flex;
 	align-items: center;
@@ -83,31 +70,24 @@ nav ul {
 }
 
 .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
+  .carousel-inner > .item > a > img{
 	        width: 70%;
 		      margin: auto;
-		        }
-
-.restos li img {
+}
+.restos li img{
 	width: 200px;
 }
-
-.restos {
+.restos{
 	margin-top: 25px;
 	display: flex;	
 	align-items: center;
-
 }
-.restos ul {
-
+.restos ul{
 	list-style-type: none;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 }
-
-
-.restos li {
-
+.restos li{
 	margin-right: 15px;
 }
