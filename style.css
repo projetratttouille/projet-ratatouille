@@ -111,3 +111,37 @@ nav ul {
 
 	margin-right: 15px;
 }
+
+.nous {
+	position: relative;
+}
+
+.photos_fondateur {
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 15px;
+	right: 55px;
+}
+
+#fondateur {
+	width: 250px;
+	margin: 10px;
+}
+
+.text_nous {
+	width: 800px;
+	margin: auto;
+	text-align: justify;
+}
+
+
+.photos_campagne {
+	position: absolute;
+	top: 15px;
+	left: 55px;
+}
+
+#campagne {
+	width: 450px;
+}

@@ -2,8 +2,11 @@
 				
 <section>
 	<div class="nous">
+		<div class="text_nous">
 		<h1>Qui sommes nous?</h1>
+		<br />
 		<h4>Le groupe</h4>
+		<br />
 		<p>Nous sommes deux amis et collaborateur: Damien Armenté et Laurent Aubertin, passionné de cuisine fraçaise et de bon produits. Nous souhaiton proposer des plats régionnaux élaborés à partir d'ingrédients issus des producteurs locaux.</p>
 		<h4>L'histoire</h4>
 		<br />
@@ -17,9 +20,13 @@ Nous souhaitons toujours permettrent à d’autre cuisinier en phase avec notre 
 		14 collaborateurs.<br />
 		1 millions d'euros de chiffre d'affaires en 2016.<br />
 		99% de clients satisfait.</p>
+		</div>
 		<div class="photos_fondateur">
-			<img src="images/laurent.jpg" alt="Laurent Aubertin" />
-			<img src="images/damien-armente-profil.jpg" alt="Damien Armenté" />
+			<img id="fondateur" src="images/laurent.jpg" alt="Laurent Aubertin" />
+			<img id="fondateur" src="images/damien-armente-profil.jpg" alt="Damien Armenté" />
+		</div>
+		<div class="photos_campagne">
+			<img id="campagne" src="images/campagne.jpg" alt="La campagne" />
 		</div>
 	</div>
 </section>
