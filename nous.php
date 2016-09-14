@@ -8,6 +8,7 @@
 		<h4>Le groupe</h4>
 		<br />
 		<p>Nous sommes deux amis et collaborateur: Damien Armenté et Laurent Aubertin, passionné de cuisine fraçaise et de bon produits. Nous souhaiton proposer des plats régionnaux élaborés à partir d'ingrédients issus des producteurs locaux.</p>
+		<br />
 		<h4>L'histoire</h4>
 		<br />
 		<p>Créé en 2012 à La loupe un petit village du Perche, nous avons expérimenté notre concept auprès des habitants et des producteurs locaux. Au vu des retours positifs des clients de notre restaurant, nous avons décidé de nous mettre en franchise pour permettre à d’autre restaurateur d’ouvrir des restaurants basé sur ce concept de proximité et de convivialité. dès 2013 d’autres collaborateurs nous ont rejoint et ou ouvert leur enseigne à chartres orléans et fontainebleau.<br /> 
