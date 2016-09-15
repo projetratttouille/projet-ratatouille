@@ -13,8 +13,11 @@
 
 </div>
 <div  class="restos">
+	<h1>Nos nouveaux restaurants</h1>
 	<ul class="center-block">
+		<h4>La ratatouille de Lyon</h4>
 		<li><img src="images/restaurant_lachimere_gf.jpg" alt="restaurant de lyon" class="img-circle"/></li>
+		<h4>La ratatouille de Toulouse</h4>
 		<li><img src="images/alatraboule4_gf.jpg" alt="restaurant Toulouse" class="img-circle"/></li>
 	</ul>
 </div>
