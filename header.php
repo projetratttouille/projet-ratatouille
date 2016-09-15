@@ -22,8 +22,9 @@
 		<body>
 			<div id="bloc_page">
 
-<header>
-<a href="index.php"><img id="logo" src="images/logoFranchise.png" alt="logo />"</a>
+<header class="row">
+	
+	<a href="index.php"><img id="logo" src="images/logoFranchise.png" alt="logo" /></a>
 <nav>
 	<ul class="nav nav-pills">
 		<li>
