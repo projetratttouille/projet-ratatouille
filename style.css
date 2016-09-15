@@ -1,80 +1,82 @@
+a:hover{
+	text-decoration: none;
+	color: orange;
+}
+.rat:hover{
+	color: white;
+}
 body {
-	background-color: #E1D9E0;
+	background-color: #BABABC;
 }
 
+#logo {
+	display: flex;
+	margin: auto;
+	margin-bottom: 40px;
+	width: 50px;
+}
 #bloc_page {
+	min-height: 100%;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	margin: auto;
 	/*border: 1px solid black;*/
-
 }
-section {
-	margin-top: 50px;
+section{
 	display: flex;
 	flex-direction: column;
-	min-height: 600px;
+	min-height: 800px;
 }
 
-#presentation {
+#presentation{
 	display: flex;
 /*	border: 2px solid black;*/
 	margin: auto;
 }
-
-
-
+footer{
+	background-color: #4B4E58;
+}
+header{
+	background-color: #4B4E58;
+}
 .image_de_fond {
+	width: 100%;
 	position: relative;
 /*	border: 2px solid green;*/
 }
-.image_de_fond .texte_presentation {
+.image_de_fond .texte_presentation{
 	background-color: #C1C1CF;
 	width: 400px;
 	opacity: 0.6;
 	position: absolute;
 	top: 50px;
 	left: 25px;
-
-
 }	
 
-.image_de_fond p {
+.image_de_fond p{
 	width: 400px;
 	top: 50px;
 	left: 25px;
 	text-align: justify;
 	padding: 6px;
 	opacity: 1;
-	font-color: #16169E;
+	color: #16169E;
 	font-size: 0.9em;
 }
-/*
-header {
-	border: 1px solid green;
-}
-
-footer {
-	border: 1px solid red;
-}
-
-section {
-	border: 1px solid blue;
-}
-*/
-nav {
+nav{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #9DA4C2;
-
-
+	background-color: #4B4E58;
 }
-.text-center-xs {
+.text-center-xs{
 	text-align: center;
 }
-nav ul {
+.text-right-xs {
+	text-align: right;
+}
+nav ul{
 	list-style-type: none;
 	display: flex;
 	align-items: center;
@@ -83,31 +85,110 @@ nav ul {
 }
 
 .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
+  .carousel-inner > .item > a > img{
 	        width: 70%;
 		      margin: auto;
-		        }
-
-.restos li img {
-	width: 200px;
 }
-
-.restos {
+.restos li img{
+	width: 100px;
+}
+.restos{
 	margin-top: 25px;
 	display: flex;	
+	flex-direction: column;
 	align-items: center;
-
 }
-.restos ul {
-
+.restos ul{
 	list-style-type: none;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 }
-
-
-.restos li {
-
+.restos li{
 	margin-right: 15px;
+}
+.nous {
+	position: relative;
+}
+
+.photos_fondateur {
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 15px;
+	right: 55px;
+}
+
+#fondateur {
+	width: 250px;
+	margin: 10px;
+}
+
+.text_nous {
+	width: 800px;
+	margin: auto;
+	text-align: justify;
+}
+
+
+.photos_campagne {
+	position: absolute;
+	top: 15px;
+	left: 55px;
+}
+
+#campagne {
+	width: 450px;
+}
+/*Modification des couleures de texts*/
+.txt-white{
+	color: white;
+}
+.txt-grey{
+	color: lightgrey;
+}
+.logo{
+	width: 3em; margin-right: 1em;
+}
+.banniere{
+    width:100%;
+    height:100%;
+    /*background-image: url('images/banniere.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;*/
+    background-color: grey;
+}
+.imagesIndex{
+    width:100%;
+    height:100%;
+    background-image: url('images/restaurant-690569_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.i-fond{
+    height: 400px; overflow: hidden;
+}
+.header{
+    height: 50px; overflow: hidden;
+}
+.container{
+	width: 100%; padding: 0px;
+}
+.text-justify-xs {
+	text-align: justify;
+}
+
+.resto {
+	width: 50px;
+}
+
+.text-center-xs {
+	text-align: center;
+}
+
+
+.pointer:hover{
+	cursor: pointer;
 }
