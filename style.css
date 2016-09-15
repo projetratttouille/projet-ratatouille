@@ -1,3 +1,4 @@
+
 body{
 	background-color: #E1D9E0;
 }
@@ -60,6 +61,9 @@ nav{
 }
 .text-center-xs{
 	text-align: center;
+}
+.text-right-xs {
+	text-align: right;
 }
 nav ul{
 	list-style-type: none;
