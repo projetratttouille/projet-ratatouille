@@ -33,6 +33,9 @@
 									<a class="txt-white" href="nous.php">Qui sommes nous?</a>
 								</li>
 								<li>
+									<a class="txt-white" href="restaurant.php">Nos restaurants</a>
+								</li>
+								<li>
 									<a class="txt-white" href="franchise.php">La franchise</a>
 								</li>
 							</ul>

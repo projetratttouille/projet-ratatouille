@@ -16,7 +16,7 @@
 		<h4>L'histoire</h4>
 		<br />
 		<p>Créé en 2012 à La loupe un petit village du Perche, nous avons expérimenté notre concept auprès des habitants et des producteurs locaux. Au vu des retours positifs des clients de notre restaurant, nous avons décidé de nous mettre en franchise pour permettre à d’autre restaurateur d’ouvrir des restaurants basé sur ce concept de proximité et de convivialité. dès 2013 d’autres collaborateurs nous ont rejoint et ou ouvert leur enseigne à chartres orléans et fontainebleau.<br /> 
-Notre renommés grandissantes cette année nous avons permis à d’autre chef d’ouvrir des restaurants à Toulouse, Lyon, et Bordeaux.<br /> 
+Notre renommés grandissantes; cette année nous avons permis à d’autre chef d’ouvrir des restaurants à Toulouse, Lyon, et Bordeaux.<br /> 
 Nous souhaitons toujours permettrent à d’autre cuisinier en phase avec notre concept et nos valeurs d’ouvrir leur propre lieu gastronomique dans leur ville respective.</p>
 		<br />
 		<h4>Chiffre Clés : </h4>
