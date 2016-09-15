@@ -87,8 +87,10 @@ nav ul{
 .restos{
 	margin-top: 25px;
 	display: flex;	
+	flex-direction: column;
 	align-items: center;
 }
+
 .restos ul{
 	list-style-type: none;
 	display: flex;
@@ -131,7 +133,6 @@ nav ul{
 #campagne {
 	width: 450px;
 }
-
 /*Modification des couleures de texts*/
 .txt-white{
 	color: white;
@@ -167,4 +168,7 @@ nav ul{
 }
 .container{
 	width: 100%;
+}
+.mention_legale .text-justify-xs {
+	text-align: justify;
 }
