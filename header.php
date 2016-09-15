@@ -15,17 +15,19 @@
 
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+			<script type="text/javascript" src="ratatouilles.js"></script>
 			<link rel="stylesheet" href="style.css" />
 		</head>
 		<body>
 			<div class="container" id="bloc_page">
 				<header>
 					<div class="raw">
-						<div style="padding: 0;" class="col-xs-12 header"><div style="display:flex; flex-direction: column; justify-content: center;" class="banniere"><h1 class="text-center-xs txt-white">RATATOUILLE</h1></div></div>
+						<img class="col-xs-3" style ="width:60px;" src="images/logoChapeau.png"/>
+						<a style="font-size: 1.5em; padding: 0; font-style: italic"; href="index.php" class="rat col-xs-4 txt-white">Ratatouille!</a>
 					</div>
 					<div class="raw">
-						<nav class="col-xs-12">
-							<ul class="nav nav-pills">
+						<nav class="col-xs-12" style="border-top: 1px solid darkgrey;">
+							<ul class="nav ">
 								<li>
 									<a class="txt-white" href="index.php">Accueil</a>
 								</li>
