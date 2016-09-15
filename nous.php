@@ -6,7 +6,7 @@
 			<img class="img-responsive" id="campagne" src="images/campagne.jpg" alt="La campagne" />
 		</div>
 
-		<div  class="col-xs-5" class="text_nous">
+		<div  class="col-xs-5 text-justify-xs" class="text_nous">
 		<h1>Qui sommes nous?</h1>
 		<br />
 		<h4>Le groupe</h4>
