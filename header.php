@@ -22,19 +22,20 @@
 		<body>
 			<div id="bloc_page">
 
-<header>
-		<a href="index.php"><img style="width: 3em; margin-right: 1em;" src="images/logoChapeau.png"/>RATATOUILLE</a>
-	<nav>
-		<ul class="nav nav-pills">
-			<li>
-				<a href="index.php">Accueil</a>
-			</li>
-			<li>
-				<a href="nous.php">Qui sommes nous?</a>
-			</li>
-			<li>
-				<a href="franchise.php">La franchise</a>
-			</li>
-		</ul>
-	</nav>
+<header class="row">
+	
+	<a href="index.php"><img id="logo" src="images/logoFranchise.png" alt="logo" /></a>
+<nav>
+	<ul class="nav nav-pills">
+		<li>
+			<a href="index.php">Accueil</a>
+		</li>
+		<li>
+			<a href="nous.php">Qui sommes nous?</a>
+		</li>
+		<li>
+			<a href="franchise.php">La franchise</a>
+		</li>
+	</ul>
+</nav>
 </header>

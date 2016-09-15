@@ -1,15 +1,19 @@
-
-body{
-	background-color: #E1D9E0;
+body {
+	background-color: #BABABC;
 }
 
-#bloc_page{
+#logo {
+	display: flex;
+	margin: auto;
+	margin-bottom: 40px;
+	width: 50px;
+}
+#bloc_page {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	margin: auto;
 	/*border: 1px solid black;*/
-
 }
 section{
 	margin-top: 50px;
@@ -26,9 +30,8 @@ section{
 footer{
 	background-color: white;
 }
-
-
-.image_de_fond{
+.image_de_fond {
+	width: 100%;
 	position: relative;
 /*	border: 2px solid green;*/
 }
@@ -39,8 +42,6 @@ footer{
 	position: absolute;
 	top: 50px;
 	left: 25px;
-
-
 }	
 
 .image_de_fond p{
@@ -50,14 +51,14 @@ footer{
 	text-align: justify;
 	padding: 6px;
 	opacity: 1;
-	font-color: #16169E;
+	color: #16169E;
 	font-size: 0.9em;
 }
 nav{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #9DA4C2;
+	background-color: #4B4E58;
 }
 .text-center-xs{
 	text-align: center;
@@ -94,4 +95,37 @@ nav ul{
 }
 .restos li{
 	margin-right: 15px;
+}
+.nous {
+	position: relative;
+}
+
+.photos_fondateur {
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 15px;
+	right: 55px;
+}
+
+#fondateur {
+	width: 250px;
+	margin: 10px;
+}
+
+.text_nous {
+	width: 800px;
+	margin: auto;
+	text-align: justify;
+}
+
+
+.photos_campagne {
+	position: absolute;
+	top: 15px;
+	left: 55px;
+}
+
+#campagne {
+	width: 450px;
 }
