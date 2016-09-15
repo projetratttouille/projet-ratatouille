@@ -1,8 +1,12 @@
 <?php include('header.php'); ?>
 				
 <section>
-	<div class="nous">
-		<div class="text_nous">
+	<div  class="row" class="nous">
+		<div class="col-xs-3 col-xs-offset-1" class="photos_campagne">
+			<img class="img-responsive" id="campagne" src="images/campagne.jpg" alt="La campagne" />
+		</div>
+
+		<div  class="col-xs-5" class="text_nous">
 		<h1>Qui sommes nous?</h1>
 		<br />
 		<h4>Le groupe</h4>
@@ -22,12 +26,9 @@ Nous souhaitons toujours permettrent à d’autre cuisinier en phase avec notre 
 		1 millions d'euros de chiffre d'affaires en 2016.<br />
 		99% de clients satisfait.</p>
 		</div>
-		<div class="photos_fondateur">
-			<img id="fondateur" src="images/laurent.jpg" alt="Laurent Aubertin" />
-			<img id="fondateur" src="images/damien-armente-profil.jpg" alt="Damien Armenté" />
-		</div>
-		<div class="photos_campagne">
-			<img id="campagne" src="images/campagne.jpg" alt="La campagne" />
+		<div  class="col-xs-2" class="photos_fondateur">
+			<img class="img-responsive" id="fondateur" src="images/laurent.jpg" alt="Laurent Aubertin" />
+			<img class="img-responsive" id="fondateur" src="images/damien-armente-profil.jpg" alt="Damien Armenté" />
 		</div>
 	</div>
 </section>
