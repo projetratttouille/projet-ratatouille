@@ -8,6 +8,6 @@
 					</div>
 				</footer>
 			</div>
-		</body>
 				<script>changeImage('ratatouille');</script>
+		</body>
 </html>
