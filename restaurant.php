@@ -38,7 +38,7 @@ Venez nous rencontrer au : <br />
 <br /><br />
 <div class="row">
 	<div>
-		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/la_loupe.jpg" alt="la Loupe" />
+		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/mini-bordeaux.jpg" alt="Bordeaux" />
 	</div>
 	<div class="col-xs-3 col-xs-offset-1"> 
 	<p >Le lieu fondateur situé à la Loupe dans le Perche est heureux de vous accueillir dans ces locaux pour vous proposer une cuisine de qualité dans un cadre chaleureux et convivial.<br /><br />
@@ -49,7 +49,7 @@ Venez nous rencontrer au : <br />
 <br /><br />
 <div class="row">
 	<div>
-		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/la_loupe.jpg" alt="la Loupe" />
+		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/mini-lyon.jpg" alt="Lyon" />
 	</div>
 	<div class="col-xs-3 col-xs-offset-1"> 
 	<p >Le lieu fondateur situé à la Loupe dans le Perche est heureux de vous accueillir dans ces locaux pour vous proposer une cuisine de qualité dans un cadre chaleureux et convivial.<br /><br />
@@ -60,7 +60,7 @@ Venez nous rencontrer au : <br />
 <br /><br />
 <div class="row">
 	<div>
-		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/la_loupe.jpg" alt="la Loupe" />
+		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/mini-laloupe.jpg" alt="Toulouse" />
 	</div>
 	<div class="col-xs-3 col-xs-offset-1"> 
 	<p >Le lieu fondateur situé à la Loupe dans le Perche est heureux de vous accueillir dans ces locaux pour vous proposer une cuisine de qualité dans un cadre chaleureux et convivial.<br /><br />
@@ -71,7 +71,7 @@ Venez nous rencontrer au : <br />
 <br /><br />
 <div class="row">
 	<div>
-		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/la_loupe.jpg" alt="la Loupe" />
+		<img class="col-xs-2 img-responsive col-xs-offset-2" class="resto" src="images/orléans.jpg" alt="Orléans" />
 	</div>
 	<div class="col-xs-3 col-xs-offset-1"> 
 	<p >Le lieu fondateur situé à la Loupe dans le Perche est heureux de vous accueillir dans ces locaux pour vous proposer une cuisine de qualité dans un cadre chaleureux et convivial.<br /><br />
