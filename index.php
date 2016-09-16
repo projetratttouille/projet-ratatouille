@@ -9,12 +9,11 @@
 			</div>
 		</div>
 	</div>
-	<div  class="restos">
-
-		<ul class="center-block">
-			<h1 style="max-width: 300px; color: white;">LES NOUVEAUX RESTAURANTS:</h1>
+	<div class="restos">
+		<ul style="display: flex; flex-wrap: wrap; margin-bottom: 2em;" class="center-block">
+			<h1 class="col-xs-5" style="min-width: 250px; color: #4B4E58;">LES NOUVEAUX RESTOS:</h1>
 			<li><img id="ratatouille" src="images/mini-ratatouille.jpg" alt="restaurants de Ratatouille" onclick="changeImage('ratatouille');" class="pointer"/></li>
-			<li><img id="laloupe" src="images/mini-laloupe.jpg" alt="restaurant Laloupe" onclick="changeImage('laloupe');" class="pointer"/></li>
+			<li><img id="laloupe" src="images/mini-laloupe.jpg" alt="restaurant Toulouse" onclick="changeImage('laloupe');" class="pointer"/></li>
 			<li><img id="lyon" src="images/mini-lyon.jpg" alt="restaurant de lyon" onclick="changeImage('lyon');" class="pointer"/></li>
 			<li><img id="bordeaux" src="images/mini-bordeaux.jpg" alt="restaurant de lyon" onclick="changeImage('bordeaux');" class="pointer"/></li>
 		</ul>

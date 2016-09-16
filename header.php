@@ -17,6 +17,8 @@
 			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 			<script type="text/javascript" src="ratatouilles.js"></script>
 			<link rel="stylesheet" href="style.css" />
+			<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+			<link rel="icon" href="favicon.ico" type="image/x-icon">
 		</head>
 		<body>
 			<div class="container" id="bloc_page">
@@ -26,7 +28,7 @@
 						<a style="font-size: 1.5em; padding: 0; font-style: italic"; href="index.php" class="rat col-xs-4 txt-white">Ratatouille!</a>
 					</div>
 					<div class="raw">
-						<nav class="col-xs-12" style="border-top: 1px solid darkgrey;">
+						<nav class="col-xs-12" style="border-top: 1px solid #f2f1e8;">
 							<ul class="nav ">
 								<li>
 									<a class="txt-white" href="index.php">Accueil</a>

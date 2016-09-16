@@ -10,5 +10,4 @@
 			</div>
 				<script>changeImage('ratatouille');</script>
 		</body>
-
 </html>

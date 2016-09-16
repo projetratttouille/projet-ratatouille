@@ -6,7 +6,7 @@ a:hover{
 	color: white;
 }
 body {
-	background-color: #BABABC;
+	background-color: #f2f1e8;
 }
 
 #logo {
@@ -26,7 +26,9 @@ body {
 section{
 	display: flex;
 	flex-direction: column;
+
 	min-height: 100vh;
+
 }
 
 #presentation{
@@ -187,8 +189,9 @@ nav ul{
 .text-center-xs {
 	text-align: center;
 }
-
-
 .pointer:hover{
 	cursor: pointer;
+}
+.pointer{
+	transition: 1s;
 }
