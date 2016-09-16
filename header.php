@@ -22,6 +22,7 @@
 		</head>
 		<body>
 			<div class="container" id="bloc_page">
+
 				<header>
 					<div class="raw">
 						<img class="col-xs-3" style ="width:60px;" src="images/logoChapeau.png"/>
